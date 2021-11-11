@@ -1,2 +1,2 @@
 # Coursera-HTML
-This repo is for coursera courses of HTML CSS AND JAVASCRIPT
+This repository is for Coursera courses of HTML CSS AND JAVASCRIPT
